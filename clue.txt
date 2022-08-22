@@ -1,0 +1,12 @@
+Decode this by refering to the picture given.
+
+-.-.
+.
+-.
+-
+---
+...
+
+
+
+

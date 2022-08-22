@@ -1,0 +1,15 @@
+//Find the output for below code 
+//Tip : ASCII Code for A is 65 
+
+int main() {
+   
+char A='D';
+char F='F';
+char B='S';
+char C='Z';
+char D='A';
+char E='E';
+int res=A+'A'-D+'Z'-B-'B'+C-10;
+printf("%c",res);
+    return 0;
+}
