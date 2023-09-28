@@ -1,4 +1,4 @@
-Decode this by refering to the picture given.
+Decode this by refering to the picture given(open ./clue.png).
 
 -.-.
 .
